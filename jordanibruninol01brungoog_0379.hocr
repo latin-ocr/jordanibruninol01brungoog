@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./jordanibruninol01brungoog_0379.png"; bbox 0 0 3428 5138; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 842 2408 1582 2429">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 842 2408 1582 2429">
+     <span class='ocr_line' id='line_1_1' title="bbox 842 2408 1582 2429; baseline -0.009 -5"><span class='ocrx_word' id='word_1_1' title='bbox 842 2420 849 2429; x_wconf 81' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 871 2408 1083 2427; x_wconf 57' lang='lat' dir='ltr'><strong>..n-um·-</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1106 2412 1174 2423; x_wconf 67' lang='lat' dir='ltr'>nau--</span> <span class='ocrx_word' id='word_1_4' title='bbox 1252 2408 1461 2421; x_wconf 64' lang='grc' dir='ltr'><strong>ιυι-..ιιῌ-ιι-</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1492 2412 1525 2419; x_wconf 84' lang='grc' dir='ltr'>.-ι-</span> <span class='ocrx_word' id='word_1_6' title='bbox 1552 2410 1582 2417; x_wconf 83' lang='lat'><strong>..-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 726 2542 1557 2741">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 726 2492 1557 2741">
+     <span class='ocr_line' id='line_1_2' title="bbox 908 2542 1557 2643; baseline 0 -20"><span class='ocrx_word' id='word_1_7' title='bbox 908 2542 1101 2623; x_wconf 69' lang='lat' dir='ltr'><strong>stanford</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1116 2546 1342 2643; x_wconf 73' lang='lat' dir='ltr'>University</span> <span class='ocrx_word' id='word_1_9' title='bbox 1356 2546 1557 2623; x_wconf 64' lang='lat' dir='ltr'>[lbraries</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 726 2644 1448 2741; baseline -0.001 -13"><span class='ocrx_word' id='word_1_10' title='bbox 726 2644 731 2679; x_wconf 92' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_11' title='bbox 1002 2649 1210 2741; x_wconf 69' lang='lat' dir='ltr'><strong>stanford,</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1225 2650 1448 2727; x_wconf 72' lang='lat' dir='ltr'><strong>Califomiu</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 712 3086 1571 3191">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 712 3086 1571 3191">
+     <span class='ocr_line' id='line_1_4' title="bbox 712 3086 1571 3191; baseline 0 -20"><span class='ocrx_word' id='word_1_13' title='bbox 712 3086 717 3191; x_wconf 54' lang='grc' dir='ltr'>Ξ</span> <span class='ocrx_word' id='word_1_14' title='bbox 874 3110 988 3170; x_wconf 72' lang='lat' dir='ltr'><strong>fletum</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1007 3112 1222 3171; x_wconf 72' lang='lat' dir='ltr'><strong>thhbooku</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1239 3112 1522 3171; x_wconf 68' lang='lat' dir='ltr'><strong>ornulbesoredt</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1502 3114 1571 3171; x_wconf 79' lang='lat' dir='ltr'>due.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1718 5138">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1718 5138">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1718 5138; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 1718 5138; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
